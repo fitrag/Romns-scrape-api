@@ -1,0 +1,6 @@
+{
+  "name": "ROMsNS Cheerio Scraper & Explorer",
+  "description": "Scrape and extract Nintendo Switch ROMs data from romsns.com using Node.js and Cheerio with live API, interactive catalog, and code generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
